@@ -1,5 +1,5 @@
 {
-	"name": "example/sw-module",
+	"name": "akcagulsum/sw-module",
 	"description": "Aimeos sw-module extension",
 	"keywords": ["aimeos", "extension"],
 	"type": "aimeos-extension",
