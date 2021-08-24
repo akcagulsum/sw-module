@@ -1,0 +1,22 @@
+{
+	"projectName": "sw-module",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "sw-module CSS",
+		"file": "sw-module.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/"
+		}]
+	}, {
+		"name": "sw-module JS",
+		"file": "sw-module.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "js/"
+		}]
+	}],
+	"resources" : []
+}
